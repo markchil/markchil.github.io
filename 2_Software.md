@@ -18,7 +18,7 @@ Here is a picture of the 2D squared exponential covariance kernel and a few of i
 
 ![2D SE]({{ site.github.url }}/images/SE2D.png)
 
-This is the posterior distribution for the hyperparameters of a 1D non-stationary covariance kernel fit to density profile data by calling [emcee](http://dan.iel.fm/emcee/) from gptools:
+This is the posterior distribution for the hyperparameters of a 1D non-stationary covariance kernel fit to density profile data produced by calling [emcee](http://dan.iel.fm/emcee/) from gptools:
 
 ![ne marginals]({{ site.github.url }}/images/neMarginalsNew.svg)
 
