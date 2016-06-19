@@ -22,7 +22,7 @@ This is the posterior distribution for the hyperparameters of a 1D non-stationar
 
 ![ne marginals]({{ site.github.url }}/images/neMarginalsNew.png)
 
-And here are the associated data and fitted profiles (blue is marginalized with MCMC, red is MAP estimate -- the means are similar, but the uncertainty envelopes are not):
+And here are the associated data and fitted profiles (blue is marginalized with MCMC, red is the MAP estimate -- the means are similar, but the uncertainty envelopes are not):
 
 ![fitted ne profile]({{ site.github.url }}/images/neFit.png)
 
