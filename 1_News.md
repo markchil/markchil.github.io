@@ -26,7 +26,7 @@ This page provides links to various news articles about myself, my research and 
 * I performed for the Infinite Winds CD released by the MIT Wind Ensemble on Sunnyside Records:
 
     * About the album: <http://sunnysidezone.com/album/infinite-winds>
-    * Credits (scroll down, I am listed directly above Chick Corea): <http://www.allmusic.com/album/infinite-winds-mw0002835463/credits>
+    * Credits (scroll down, I am listed right above Chick Corea): <http://www.allmusic.com/album/infinite-winds-mw0002835463/credits>
     * Summary of the positive press surrounding the album: <https://spectrum.mit.edu/continuum/the-reviews-are-in-five-stars-for-mit-jazz/>
 
 * I got to spend an afternoon with Neil Grover of Boston Symphony/Grover Pro Percussion fame: <http://groverpro.com/factory-visitors-from-mit>
