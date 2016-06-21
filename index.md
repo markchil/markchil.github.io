@@ -57,7 +57,7 @@ And their gradients:
 This work culminated in the development of my [gptools](http://gptools.readthedocs.io) and [profiletools](http://profiletools.readthedocs.io) software.
 
 ### Inferring impurity transport coefficients
-Imagine that you are trying to figure out what is going on in a complicated fluid flow: a very turbulent stream with lots of complicate bends, for instance. A [very common approach](http://en.wikipedia.org/wiki/Particle_image_velocimetry) to studying this is to scatter pellets in the fluid and track them with a camera.
+Imagine that you are trying to figure out what is going on in a complicated, turbulent fluid flow. A [very common approach](http://en.wikipedia.org/wiki/Particle_image_velocimetry) to studying this is to scatter pellets in the fluid and track them with a camera.
 
 Now imagine the fluid is a plasma as hot as the Sun. This is the basic premise of what my project is trying to do. Instead of putting solid pellets into the plasma, I use a laser to ablate a small amount of an impurity (i.e., something different than the hydrogen fuel). And, instead of using a simple camera, I use an x-ray spectrometer to track the impurities.
 
