@@ -43,7 +43,7 @@ eqtools is a piece of software I wrote with several of my colleagues to provide 
 * Documentation on Read the Docs: <http://eqtools.readthedocs.io>
 * Releases on PyPI: <http://pypi.python.org/pypi/eqtools/>
 
-Here is a plot of magnetic field lines traced using eqtools. The coloring is proportional to the field strength, which makes the 1/R dependence clear:
+Here is a plot of magnetic field lines traced using eqtools. The coloring is proportional to the field strength, which makes the 1/*R* dependence clear:
 
 ![magnetic field lines]({{ site.github.url }}/images/Blines.png)
 
