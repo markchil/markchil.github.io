@@ -67,6 +67,6 @@ Given our measurements of how the injected impurities move, I then try to infer 
 
 ![structure of the forward model]({{ site.github.url }}/images/inference_diagram.png)
 
-Given measurements of the line brightnesses \\(b\\), I use powerful tools such as [MultiNest](http://ccpforge.cse.rl.ac.uk/gf/project/multinest/) to attempt to find the posterior distribution for the profiles of the diffusion \\(D\\) and convection \\(V\\) which gave rise to them.
+Given measurements of the line brightnesses *b*, I use powerful tools such as [MultiNest](http://ccpforge.cse.rl.ac.uk/gf/project/multinest/) to attempt to find the posterior distribution for the profiles of the diffusion *D* and convection *V* which gave rise to them.
 
 When I started work on this problem, I soon realized that the way it has traditionally been solved did not give an accurate accounting of the uncertainty and failed to account for the fact that the posterior distribution can end up having multiple solutions which match the data equally well. This can end up having a substantial, negative impact when incorrect inferences are used to benchmark simulation codes, and so the bulk of my work lately has consisted of characterizing this problem and figuring out what the bounds on what we can actually measure are.
