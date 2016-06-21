@@ -7,7 +7,7 @@ title: Bio
 I am a PhD student at MIT working on questions of data analysis related to plasma physics and nuclear fusion. I am excited by building general-purpose data analysis tools which help both my research and that of others.
 
 ## My interests
-* **Data analysis, machine learning, statistics and Bayesian inference:** I am very passionate about data analysis and getting the statistics right -- everything in science is garbage in, garbage out, so if the data are not handled correctly, the conclusions drawn will be worthless.
+* **Data analysis, machine learning, statistics and Bayesian inference:** I am very passionate about data analysis and getting the statistics right -- everything in science is garbage in, garbage out. So, if the data are not handled correctly, the conclusions drawn will be worthless.
 * **Instrumentation:** Without the right data coming in, no amount of clever statistics will save you, so I am very interested in working with the latest technologies and building statistical models which can incorporate all of the data which are being collected.
 * **Tool-building:** While working on my PhD, I wrote several general-purpose, open-source analysis codes which now have users around the world. The fact that what I am doing helps people working in many fields inspires me to keep writing top-quality code.
 
