@@ -20,3 +20,6 @@ markdown: kramdown
 # Added:
 highlighter: rouge
 email: markchil
+
+gems:
+    - jekyll-sitemap
