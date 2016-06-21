@@ -22,7 +22,7 @@ We do this using [magnetic fields](http://en.wikipedia.org/wiki/Magnetic_confine
 
 ([Image courtesy of the Alcator C-Mod engineering team and released under CC license on Wikimedia.](http://commons.wikimedia.org/wiki/File:Alcator_C-Mod_tokamak.jpg))
 
-The plasma is the red part in the middle, everything else is part of the system which provides the magnetic field to hold the plasma in place and heat it up as hot as the Sun.
+The plasma is the red part in the middle, everything else is part of the system that provides the magnetic field to hold the plasma in place and heat it up as hot as the Sun.
 
 One of the biggest obstacles we have yet to overcome is how to get the reactor to produce energy faster than it leaks out. The larger the reactor is, the longer the distance particles have to move to leak out (carrying their energy with them). This motivates making fusion experiments bigger and bigger, with the result being that the [next-generation experiment presently under construction](http://en.wikipedia.org/wiki/ITER) is one of the most expensive scientific projects ever undertaken.
 
