@@ -12,6 +12,8 @@ M. A. Chilenski, M. Greenwald, Y. Marzouk, et al. "Improved profile fitting and 
 M. A. Chilenski, I. C. Faust and J. R. Walk. "eqtools: Modular, Extensible, Open-Source, Cross-Machine Python Tools for Working with Magnetic Equilibria." Submitted to *Computer Physics Communications*, 2016. [Preprint available]({{ github.site.url }}/pdfs/eqtools_paper.pdf).
 
 ## Co-authored publications
+B. LaBombard, A. Kuang, D. Brunner, et al. "High-field side scrape-off layer investigation: plasma profiles and impurity screening behavior in near-double-null configurations." Submitted to *Nuclear Materials and Energy*, 2016.
+
 F. M. Poli, P. T. Bonoli, M. Chilenski, et al. "Experimental and modeling uncertainties in the validation of Lower Hybrid Current Drive." Accepted for publication in *Plasma Physics and Controlled Fusion*, 2016.
 
 A. Loarte, M. L. Reinke, A. R. Polevoi, et al. "Tungsten impurity transport experiments in Alcator C-Mod to address high priority research and development for ITER." [*Physics of Plasmas* **22**(5), 056117, 2015](http://dx.doi.org/10.1063/1.4921253).
