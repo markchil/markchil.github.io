@@ -4,7 +4,7 @@ title: Bio
 ---
 
 # Plasma physicist and data analysis tool-builder
-I am a PhD student at MIT working on questions of data analysis related to plasma physics and nuclear fusion. I am excited by building general-purpose data analysis tools which help both my research and that of others.
+I am a plasma physicist at MIT working on questions of data analysis related to plasma physics and nuclear fusion. I am excited by building general-purpose data analysis tools which help both my research and that of others.
 
 ## My interests
 * **Data analysis, machine learning, statistics and Bayesian inference:** I am very passionate about data analysis and getting the statistics right -- everything in science is garbage in, garbage out. So, if the data are not handled correctly, the conclusions drawn will be worthless.
@@ -30,8 +30,8 @@ Because $10 billion is way too expensive for a 100 MW power plant (no matter how
 
 ![better simulations = fewer prototypes]({{ site.github.url }}/images/reactor_design.png)
 
-## My PhD research
-My current research involves bringing cutting-edge statistical tools to bear on questions of data analysis and instrumentation in order to make measurements which allow us to benchmark such simulation codes against what happens in real experiments.
+## My research
+My research involves bringing cutting-edge statistical tools to bear on questions of data analysis and instrumentation in order to make measurements which allow us to benchmark such simulation codes against what happens in real experiments.
 
 ### Inferring plasma profiles
 In a confined plasma, the density as a function of distance from the center of the plasma looks a little like this:

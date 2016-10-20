@@ -6,13 +6,17 @@ title: Papers and talks
 # Papers and talks
 This page contains links to some of the talks I have have given, papers I have been involved in and other materials I have written over the years.
 
+## My PhD thesis
+"Experimental Data Analysis Techniques for Validation of Tokamak Impurity Transport Simulations." Check out the [full document]({{ github.site.url }}/pdfs/thesis.pdf), the [thesis defense slides]({{ github.site.url }}/pdfs/thesis_defense_slides_chilenski.pdf), and the [source code for all of my analysis](https://github.com/markchil/thesiscode).
+(The emoticons in the slides are a reference to Prof. Jeff Freidberg's famous recurring question "Does this result make you happy or sad?")
+
 ## First-author publications
 M. A. Chilenski, M. Greenwald, Y. Marzouk, et al. "Improved profile fitting and quantification of uncertainty in experimental measurements of impurity transport coefficients using Gaussian process regression." [*Nuclear Fusion* **55**(2), 023012, 2015](http://dx.doi.org/10.1088/0029-5515/55/2/023012). [Preprint available](http://library.psfc.mit.edu/catalog/reports/2010/14ja/14ja022/14ja022_abs.html).
 
-M. A. Chilenski, I. C. Faust and J. R. Walk. "eqtools: Modular, Extensible, Open-Source, Cross-Machine Python Tools for Working with Magnetic Equilibria." Submitted to *Computer Physics Communications*, 2016. [Preprint available]({{ github.site.url }}/pdfs/eqtools_paper.pdf).
+M. A. Chilenski, I. C. Faust and J. R. Walk. "eqtools: Modular, Extensible, Open-Source, Cross-Machine Python Tools for Working with Magnetic Equilibria." [*Computer Physics Communications* (in press), 2016](http://dx.doi.org/10.1016/j.cpc.2016.09.011). [Preprint available]({{ github.site.url }}/pdfs/eqtools_paper.pdf).
 
 ## Co-authored publications
-B. LaBombard, A. Kuang, D. Brunner, et al. "High-field side scrape-off layer investigation: plasma profiles and impurity screening behavior in near-double-null configurations." Submitted to *Nuclear Materials and Energy*, 2016.
+B. LaBombard, A. Kuang, D. Brunner, et al. "High-field side scrape-off layer investigation: plasma profiles and impurity screening behavior in near-double-null configurations." [*Nuclear Materials and Energy* (in press)](http://dx.doi.org/10.1016/j.nme.2016.10.006), 2016.
 
 F. M. Poli, P. T. Bonoli, M. Chilenski, et al. "Experimental and modeling uncertainties in the validation of Lower Hybrid Current Drive." [*Plasma Physics and Controlled Fusion* **58**(9), 095001, 2016](http://dx.doi.org/10.1088/0741-3335/58/9/095001).
 

@@ -8,7 +8,7 @@
 # Site settings
 title: Mark Chilenski
 description: > # this means to ignore newlines until "baseurl:"
-  Personal webpage of Mark Chilenski: MIT PhD student, plasma physicist and data analysis tool-builder.
+  Personal webpage of Mark Chilenski: MIT plasma physicist and data analysis tool-builder.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://markchil.github.io" # the base hostname & protocol for your site
 github_username:  markchil
