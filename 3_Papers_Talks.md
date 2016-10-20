@@ -7,7 +7,7 @@ title: Papers and talks
 This page contains links to some of the talks I have have given, papers I have been involved in and other materials I have written over the years.
 
 ## My PhD thesis
-"Experimental Data Analysis Techniques for Validation of Tokamak Impurity Transport Simulations." Check out the [full document]({{ github.site.url }}/pdfs/thesis.pdf), the [thesis defense slides]({{ github.site.url }}/pdfs/thesis_defense_slides_chilenski.pdf), and the [source code for all of my analysis](https://github.com/markchil/thesiscode).
+"Experimental Data Analysis Techniques for Validation of Tokamak Impurity Transport Simulations." Check out the [full document]({{ github.site.url }}/pdfs/thesis.pdf), my [thesis defense slides]({{ github.site.url }}/pdfs/thesis_defense_slides_chilenski.pdf), and the [source code for all of my analysis](https://github.com/markchil/thesiscode).
 (The emoticons in the slides are a reference to Prof. Jeff Freidberg's famous recurring question "Does this result make you happy or sad?")
 
 ## First-author publications
