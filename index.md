@@ -4,7 +4,7 @@ title: Bio
 ---
 
 # Plasma physicist and data analysis tool-builder
-I am a plasma physicist at MIT working on questions of data analysis related to plasma physics and nuclear fusion. I am excited by building general-purpose data analysis tools which help both my research and that of others.
+I am a researcher at MIT working on questions of data analysis related to plasma physics and nuclear fusion. I am excited by building general-purpose data analysis tools which help both my research and that of others.
 
 ## My interests
 * **Data analysis, machine learning, statistics and Bayesian inference:** I am very passionate about data analysis and getting the statistics right -- everything in science is garbage in, garbage out. So, if the data are not handled correctly, the conclusions drawn will be worthless.
